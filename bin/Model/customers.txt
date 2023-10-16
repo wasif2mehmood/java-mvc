@@ -1,0 +1,3 @@
+johndoe,password,johnny@gmail.com
+raphael,1,prime@promo.com
+jack,123,j@gmail.com
